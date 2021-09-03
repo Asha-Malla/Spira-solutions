@@ -1,0 +1,25 @@
+Category-1
+Chicken Briyani
+Goat Biryani
+Prawns Biryani
+Fish Biryani
+Fried Wings Biryani
+Category-2
+Chicken 65
+Samosa
+Gobhi Manchuria
+Chilly Prawns
+Pepper Chicken
+Category-3
+Sweet Corn Soup
+Chicken Soup
+Tamato Soup
+Egg Soup
+Category-4
+Veg Roll
+Paneer Roll
+Kathi Roll
+Category-5
+Fried Rice
+Tamato Rice
+Jeera Rice
